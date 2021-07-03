@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 22 08:14:40 2020
-
-@author: fernando
-"""
 
 ########################################################
 from scipy import misc
